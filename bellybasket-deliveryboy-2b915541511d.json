@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bellybasket-deliveryboy",
+  "private_key_id": "2b915541511dd31a2f3c80436bf172b1c555e635",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCfv4171J8XE4kn\nUPXm94zBAyai/g3yF65WUWDX64oYAAPPzxTA3rm4TuJLIxTme/0mykuiVcaDY362\nbFT+cYEpNGHFl2SQqtD2AA2qJrrP8p3HddAMvM3mPwVjpv4I9RLXR/fsrI9ctG2h\nKq/xjmiwhpc1ZrRs9Dl1fJlATob348Xcyg2j2AOZzbs7MFUoZMUzuCnZIloSpovB\n1Xy5eoaSQJR6+isbQSVc0m1XsVhld0aFpz0adiP8PAGaxbzwlF+i+OZyu0qzJp98\nuKf5gscOHN96kti+yovJhpt3+Em5OlrZQ0flq9Mef8PI4xHKzHmhAURhr0X6YLUR\nFk8JshIbAgMBAAECggEAJEA7wxYE5B+yyBE/PCKA9mvYoLQ2RfHJxhzBdT4mIDwg\noU/Ezd+9FW4RPCvB2mvYjqzpbPU6DybM4mjDANqRDOCuL0CjuZCJyslIUIxpaDcO\nRu0dQUa3EsDKYErM6wtyMxhJ0pN2FPt8xU4CjzZZ23Uvaxbbar4hK+ASht1LE4Vo\nhUPtIdKwlqwZ9wEFjN3xYtPOScedgp0NPhQcE9THCFS60FK47ze97huPIn3/TBiN\nORXZx5tzNAVObCCn38f2fiTu9NU79/lt83Xm31vqasqdcA5sYNbzuj//hkABo4k/\nMJ9pNmHLSqwx5+hKrhe0Pz4mpHkV42Evna1bJNIYAQKBgQDc5oj84HMgvSjNjiBX\nWL03r5A5WJryvapWrS7DJiyjEi+VcOzkTbBIFCOtnaNe8OTPcvpvpQpnbHLLDbgH\nIGYNBknv8qe/UFa7P7u1gJtRj3sseW/8lituBiLfWhr3w2SWuOlKGD5M2j6lTyv9\njLntL9cknARWHv9HZ7i0tRb+mwKBgQC5IY5HVaS9y3zYI9p7cAZThxiidoMlm09i\nvvks1qED6Vk9Mk4dmELVMjXjbUM8nv0qndhoJiYB+dAOdAGpIvJPwLQ+54+bIf8G\nB8Qrzl+CmWXuCQ6KX19HVJudKZPsaH8Zv7RL689ExzlUHHLebSCxOnP45KgkYn0O\nYwx6e3yygQKBgAhWw5EYQABaY7HuzZW+idYSUJV5nM/RDR8choljZYf6ZcV0b9zm\neeMer4IcU1CAM4MJSh7w0gW5eFPl/q52MKQJOr1OIbr9I2kKLOHbKwHXMsUpCGs2\nmAkdPi/ETQRRYfi2nkfnxmJMUtUWughmSZaEmdCN+zPtE6H0bmqT83xFAoGAa+OL\nWDUoEdexxQB4BjHN7gWwLJXmbhcp14E2E5RtN6tY71oOvh6K7FYbo5N8eKqrHZfp\nkyCQS9x7DME8aoZMMoA6SuKGBUF1rtz9zQ2zCZg+F8+9YpScISTEn32okECBuc7H\n0ur02r9DwKnno4pzX/WRun3/I10mRikhD4xBqoECgYEArB2hqjNRnaoVJibaBNXK\npQTQoh+/JDcE6qw4FTrcRY+zLsrcimaY+IR+R+4to0NByKJqhakH+YItS/7yDLHB\nKRzItkdSKGXSt8Qq3YPSlePZupWP6PI4w13hbFn3dyobTWNKHpAshB0Dh1fC3Q7I\nen4OqdQUp8ExD3urXwtQGuw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "play-console-bellybasket@bellybasket-deliveryboy.iam.gserviceaccount.com",
+  "client_id": "114417851239643525484",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/play-console-bellybasket%40bellybasket-deliveryboy.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
